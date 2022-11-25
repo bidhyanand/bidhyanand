@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Bidhyanand Poddar</h1>
+<h3 align="center">A passionate frontend developer from Nepal.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bidhyanand&label=Profile%20views&color=0e75b6&style=flat" alt="bidhyanand" /> </p>
+
 # 💫 About Me:
 🔭 I’m currently working on thrunode<br><br>🌱 I’m currently learning TypeScript<br><br>💬 Ask me about Reactjs, Nextjs<br><br>📫 How to reach me bidhyanandpoddar2000@gmail.com
 
